@@ -11,5 +11,5 @@ setup(
     license='GPL',
     packages=['credentials_manager'],
     zip_safe=False,
-    install_requires=['keyring==0.9.2']
+    install_requires=['keyring==0.10']
 )
