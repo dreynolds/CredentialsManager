@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='credentials_manager',
-    version='0.1',
+    version='0.2',
     description='Simple credential management',
     long_description=long_description,
     long_description_content_type="text/markdown",
